@@ -4,7 +4,7 @@
 
 ## Usage
 
-Refer to the documentation for usage examples
+Refer to [the documentation](https://stdlib.com/@orels1/lib/img-crop/) for usage examples
 
 ## Development
 
