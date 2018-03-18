@@ -1,4 +1,4 @@
-# Image Cropper
+# Img Crop
 
 > A cloud function to crop your lovely images
 
