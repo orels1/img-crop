@@ -28,5 +28,6 @@ You can launch your own clone of this function to stdlib or other serverless pro
 
 [You can get the imgur client ID here](https://api.imgur.com/oauth2/addclient)
 
+- Change the name of the service in the `package.json` file's `stdlib` section
 - Run `lib up dev` to deploy a dev version of the function
 - Run `lib up release` to deploy a release version of the function (immutable)
