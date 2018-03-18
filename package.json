@@ -1,0 +1,27 @@
+{
+  "name": "img-crop",
+  "version": "0.0.0",
+  "description": "",
+  "author": "orels1 <orels1@orels1.tips>",
+  "main": "functions/__main__.js",
+  "dependencies": {
+    "idx": "^2.2.0",
+    "imgur-uploader": "^4.2.1",
+    "node-fetch": "^2.1.1",
+    "sharp": "^0.20.1"
+  },
+  "private": true,
+  "stdlib": {
+    "build": "faaslang",
+    "name": "orels1/img-crop",
+    "timeout": 10000,
+    "publish": true,
+    "personalize": {
+      "keys": [],
+      "user": []
+    }
+  },
+  "devDependencies": {
+    "eslint": "^4.19.0"
+  }
+}
